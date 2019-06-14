@@ -1,3 +1,7 @@
-interReactingPhaseChangeDyMFoam.C
+phaseChangeTwoPhaseMixture/phaseChangeTwoPhaseMixture.C
+phaseChangeTwoPhaseMixture/newPhaseChangeTwoPhaseMixture.C
+Kunz/Kunz.C
+Merkle/Merkle.C
+SchnerrSauer/SchnerrSauer.C
 
-EXE = $(FOAM_USER_APPBIN)/interReactingPhaseChangeDyMFoam
+LIB = $(FOAM_LIBBIN)/libphaseChangeTwoPhaseMixtures
